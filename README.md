@@ -1,2 +1,2 @@
-# DiepteLabes-release
+# DiepteLabels-release
 Test release
